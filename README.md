@@ -5,26 +5,26 @@ Este repositório é dedicado à entrega dos desafios e ao estudo do curso DevOp
     
 O DevOps Pro da FullCycle é um curso voltado para o aprendizado de práticas e ferramentas do ecossistema DevOps. O curso aborda desde os fundamentos até práticas avançadas, com foco em automação, infraestrutura como código, monitoramento, containers, orquestração, e mais.
 Objetivos do curso:
-
-Domine os princípios do DevOps: Resolva problemas complexos com uma abordagem moderna e eficiente.
-
-Explore o ciclo completo do DevOps: Conheça todas as etapas e as ferramentas essenciais para cada fase.
-
-Gerencie código como um profissional: Aprenda a usar Git de forma eficiente, garantindo a integridade dos seus projetos e facilitando o trabalho em equipe.
-
-Torne-se um mestre em Docker: Monte ambientes de desenvolvimento avançados e crie imagens Docker seguindo as melhores práticas do mercado.
-
-Garanta a segurança das suas imagens: Utilize ferramentas líderes de mercado para assegurar a integridade e a segurança das suas imagens Docker.
-
-Excelência em Kubernetes: Defina, entregue e gerencie aplicações em Kubernetes, aplicando as melhores práticas e garantindo a segurança.
-
-Implemente Kubernetes na nuvem: Crie e gerencie ambientes Kubernetes nos principais provedores de cloud do mercado.
-
-Automatize com CI/CD e GitOps: Desenvolva pipelines eficientes que eliminam processos manuais, garantindo entregas rápidas e seguras.
-
-Infrastructure as Code (IaC): Utilize Terraform para provisionar e gerenciar recursos na nuvem de forma automatizada.
-
-Observabilidade de ponta: Colete e analise dados de aplicações e ambientes de nuvem com precisão, utilizando as melhores ferramentas de observabilidade.
+    
+    Domine os princípios do DevOps: Resolva problemas complexos com uma abordagem moderna e eficiente.
+    
+    Explore o ciclo completo do DevOps: Conheça todas as etapas e as ferramentas essenciais para cada fase.
+    
+    Gerencie código como um profissional: Aprenda a usar Git de forma eficiente, garantindo a integridade dos seus projetos e facilitando o trabalho em equipe.
+    
+    Torne-se um mestre em Docker: Monte ambientes de desenvolvimento avançados e crie imagens Docker seguindo as melhores práticas do mercado.
+    
+    Garanta a segurança das suas imagens: Utilize ferramentas líderes de mercado para assegurar a integridade e a segurança das suas imagens Docker.
+    
+    Excelência em Kubernetes: Defina, entregue e gerencie aplicações em Kubernetes, aplicando as melhores práticas e garantindo a segurança.
+    
+    Implemente Kubernetes na nuvem: Crie e gerencie ambientes Kubernetes nos principais provedores de cloud do mercado.
+    
+    Automatize com CI/CD e GitOps: Desenvolva pipelines eficientes que eliminam processos manuais, garantindo entregas rápidas e seguras.
+    
+    Infrastructure as Code (IaC): Utilize Terraform para provisionar e gerenciar recursos na nuvem de forma automatizada.
+    
+    Observabilidade de ponta: Colete e analise dados de aplicações e ambientes de nuvem com precisão, utilizando as melhores ferramentas de observabilidade.
 
 
 
